@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "esnext",
+        "module": "esnext",
+        "strict": true,
+        "moduleDetection": "force"
+    },
+    "tsx": true,
+    "include": [
+        "src/**/*"
+    ]
+}

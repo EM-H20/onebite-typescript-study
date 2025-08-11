@@ -17,4 +17,12 @@ let doubleArr : number[][] = [
 
 // 튜플
 let tup1 : [number, number] = [1,2];
+let tup2 : [number, string, boolean] = [1, "hello", true];
 
+const users : [string, number][] = [
+    ["김루카", 1],
+    ["이아무개", 2],
+    ["김아무개", 3],
+    ["이아무개", 4],
+    ["홍아무개", 5],
+];
