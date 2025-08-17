@@ -3,6 +3,7 @@ import React, {useRef, useEffect, useReducer, useContext } from 'react';
 import Editor from './components/Editor';
 import TodoItem from './components/TodoItem';
 import { Todo } from './types';
+import _ from 'lodash';
 
 // 1. 타입 선언 @types/~
 // 2. tsconfig.json
